@@ -39,6 +39,24 @@ And finally, it’s useful to think about what you will get out of the event.  I
 
 Paying attention to what your various stakeholders might get out of the hackathon and being intentional about people having a positive experience can greatly increase your likelihood of success.  Knowing what you want is a large part of getting it.[[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
+## Return on Investment (ROI)
+
+We all want to understand the return on our investment?  Right?
+
+Well, some more than others.  Some of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
+
+Hopefully you have a pretty clear vision of what you want to deliver with the event:
+
+* Understanding of your platform
+* Bring attention to an issue
+* Solve a precise problem
+* Incnrease awareness of your brand
+* Acquire new talent in a specific area
+
+There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.
+
+Achieving your goals, or just learning enough along the way to make it all worth it!
+
 # Hackathon Planning
 
 ## Assemble a  Team
@@ -720,23 +738,6 @@ Updating the hackathon website shortly after the event, capturing the essence of
 
 Keep the website representing your goals around throwing the hackathon in the first place.
 
-## Return on Investment (ROI)
-
-We all want to understand the return on our investment?  Right?
-
-Well, some more than others.  Some of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
-
-Hopefully you had a pretty clear vision of what you wanted to deliver with the event:
-
-* Understanding of your platform
-* Bring attention to an issue
-* Solve a precise problem
-* Incnrease awareness of your brand
-* Acquire new talent in a specific area
-
-There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.
-
-Achieving your goals, or just learning enough along the way to make it all worth it!
 
 # Sources
 
